@@ -1,0 +1,17 @@
+//
+//  SwiftUITemplateApp.swift
+//  SwiftUITemplate
+//
+//  Created by macos on 8/3/23.
+//
+
+import SwiftUI
+
+@main
+struct SwiftUITemplateApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}
